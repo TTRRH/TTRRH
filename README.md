@@ -1,4 +1,3 @@
-English | [简体中文](https://github.com/TTRRH/TTRRH/blob/d9fab95b607821c958607fa6f7a162bb9e443f3e/README-ZH.md)
 
 # 👋 Welcome, You can call me RpWn
 - <a href="mailto:TTRRH@outlook.com">📫Mail</a>
@@ -19,4 +18,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+  <summary><b>中文</b> (click to show)</summary>
+  
+# 欢迎光临！我叫 RpWn
+- <a href="mailto:TTRRH@outlook.com">📫邮箱</a>
+- 🌈[个人博客](https://ttrrh.github.io/)
+- 🌎 [个人主页](https://rpwnhome.netlify.app/)
+
+</details>
+
 
